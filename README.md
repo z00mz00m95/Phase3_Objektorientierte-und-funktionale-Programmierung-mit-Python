@@ -17,8 +17,8 @@ Die Anwendung läuft vollständig in der Konsole.
 ## Installation
 
 ### Voraussetzungen
-- Python **3.10 oder neuer**
-- Python **3.10 oder neuer**
+- Python **3.10 oder neuer**, da der Code alle ab dort vorhandenen Python-Standardbibliotheken nutzt.
+- Wie in Phase 1 beschrieben verwenden wir die aktuellste Version **3.14**
 - Keine externen Bibliotheken erforderlich. Es werden ausschließlich die Python-Standardbibliothek verwendet
 
 ### Datenbasis
