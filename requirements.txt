@@ -1,0 +1,2 @@
+# Dieser Prototyp des Projekts benötigt keine externen Python-Abhängigkeiten.
+# Es werden ausschließlich Module aus der Python-Standardbibliothek verwendet.
